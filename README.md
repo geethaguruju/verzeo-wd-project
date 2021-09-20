@@ -1,7 +1,7 @@
 # website
 This is a full stack interior designing website.
 
-##Languages Used:
+## Languages Used:
 Frontend: Html, Css and Javacript. Backend: Php 
 
 
