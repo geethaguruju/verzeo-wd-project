@@ -1,5 +1,8 @@
 # website
-This is a full stack interior designing website built using Html,Css,Javacript and Php 
+This is a full stack interior designing website.
+
+##Languages Used:
+Frontend: Html, Css and Javacript. Backend: Php 
 
 
 ## Get the Code
